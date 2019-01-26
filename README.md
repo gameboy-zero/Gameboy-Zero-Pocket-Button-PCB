@@ -1,4 +1,4 @@
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![alt text](https://github.com/DerNuntius/Gameboy-Zero-Pocket-Button-PCB/blob/master/images/LOGO%20WEB.png "DerNuntius Logo")
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![alt text](https://raw.githubusercontent.com/DerNuntius/Gameboy-Battery-Indicator-PCB-Board/master/Logo/GBZLogo.jpg "DerNuntius Logo")
 # Informations
 This button PCB is for the Gameboy Pocket to make a Gameboy Zero or an Arduboy.
 
