@@ -2,10 +2,9 @@
 # Informations
 This button PCB is for the Gameboy Pocket to make a Gameboy Zero or an Arduboy.
 
-I haven't tested this PCB, but it works in theory.
 ## Pictures of the PCB
 
-You find pictures in the PCB pictures folder. Also, a pinout for the header is there. I'll add text on the PCB in the next revisions.
+You find pictures in the PCB pictures folder. I'll add text on the PCB in the next revisions.
 
 ## Licence
 This Project is open source and perfect for creating your own GBP board. I forbid it selling this PCB also when you using the board I have to be marked.
