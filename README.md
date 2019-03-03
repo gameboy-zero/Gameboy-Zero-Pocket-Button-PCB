@@ -9,7 +9,6 @@ You find pictures in the images folder.
 ## Contributors:
 DerNuntius
 
-32teeth
 ## Contact me
 If you have any questions, improvements or updates about this project feel free to send me an e-mail. The e-mail address is pinned on my profile. 
 
